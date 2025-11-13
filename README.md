@@ -20,8 +20,6 @@ Built using HTML, CSS, and JavaScript — fully responsive and designed to deliv
 With a minimal layout, bold visuals, and smooth hover effects, this design enhances brand identity and user engagement.  
 It’s ideal for **fashion brands, lifestyle stores**, or any **product-focused landing page**.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ### ✨ Features
@@ -40,8 +38,6 @@ It’s ideal for **fashion brands, lifestyle stores**, or any **product-focused 
 * [HTML5](https://html5.org/)  
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
