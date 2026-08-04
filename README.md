@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="dproad%20Product%20Website/assets/images/desktop.png" alt="DPROAD Product Website Logo" width="120"/>
+<img src="dproad%20Product%20Website/assets/images/logo.svg" alt="DPROAD Product Website Logo" width="120"/>
 
 <br />
 <br />
