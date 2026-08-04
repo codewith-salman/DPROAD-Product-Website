@@ -76,7 +76,6 @@ Ideal for:
 - Featured product showcase section
 - Smooth hover animations and transitions
 - Clean typography and balanced spacing
-- Lightweight and well-structured codebase
 - Easy to customize for different products and brands
 
 ---
